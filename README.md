@@ -1,9 +1,6 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦 HackMeGPT 
 
-Description of the app ...
+HackMeGPT is a conceptual artificial intelligence model designed to function as a sandbox for ethical hacking and cybersecurity training. The core idea is to provide a platform where cybersecurity enthusiasts, students, and professionals can practice their skills in a controlled, safe environment. HackMeGPT simulates various cybersecurity scenarios, challenges, and environments, allowing users to engage in tasks such as penetration testing, vulnerability assessment, and code cracking.
 
 ## Demo App
 
